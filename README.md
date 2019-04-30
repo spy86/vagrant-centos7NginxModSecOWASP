@@ -1,6 +1,6 @@
 # Vagrantbox Centos7 + Nginx + ModSec + OWASP
 
-[![Vagrant](https://img.shields.io/badge/vagrant-centos7NginxModSecOWASP-orange.svg)]()
+![Vagrant](https://img.shields.io/badge/vagrant-centos7NginxModSecOWASP-orange.svg) ![Vagrant](https://img.shields.io/github/issues/spy86/vagrant-centos7NginxModSecOWASP.svg) ![Vagrant](https://img.shields.io/github/forks/spy86/vagrant-centos7NginxModSecOWASP.svg) ![Vagrant](https://img.shields.io/github/stars/spy86/vagrant-centos7NginxModSecOWASP.svg) ![Vagrant](https://img.shields.io/github/license/spy86/vagrant-centos7NginxModSecOWASP.svg) ![Vagrant](https://img.shields.io/twitter/url/https/github.com/spy86/vagrant-centos7NginxModSecOWASP.svg?style=social) 
 
 ## Prerequisites
 * Vagrant - https://releases.hashicorp.com/vagrant/2.2.4/vagrant_2.2.4_x86_64.msi
